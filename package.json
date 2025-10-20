@@ -33,6 +33,6 @@
 	},
 	"devDependencies": {
 		"eslint-plugin-react-refresh": "^0.4.11",
-		"playwright": "^1.46.0"
+		"playwright": "^1.55.1"
 	}
 }
